@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "ICalculator.js",
   "dependencies": {
-    "@hapi/hapi": "^19.0.5",
+    "@hapi/hapi": "^19.1.1",
     "@types/node": "^13.1.7",
     "hapi": "^18.1.0",
     "joi": "^14.3.1",
